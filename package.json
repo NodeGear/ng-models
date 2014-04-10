@@ -1,0 +1,24 @@
+{
+  "name": "ng-models",
+  "version": "0.0.1",
+  "description": "Shared mongoose models across nodegear application infrastructure",
+  "main": "bin/ng-models.js",
+  "bin": {
+    "ng-models": "ng-models.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@lab.castawaydev.org:nodecloud/ng-models.git"
+  },
+  "author": "Matej Kramny <matej@nodegear.com>",
+  "license": "NodeGear All Rights Reserved",
+  "dependencies": {
+    "async": "latest",
+    "ansi-to-html": "latest",
+    "bugsnag": "latest",
+    "jade": "latest"
+  }
+}

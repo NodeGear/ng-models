@@ -1,0 +1,22 @@
+{
+	"models": [
+		"Analytic",
+		"App",
+		"AppDomain",
+		"AppEnvironment",
+		"AppEvent",
+		"AppLog",
+		"AppProcess",
+		"EmailVerification",
+		"ForgotNotification",
+		"NetworkPerformanceRaw",
+		"PaymentMethod",
+		"PublicKey",
+		"Server",
+		"TFA",
+		"Ticket",
+		"Transaction",
+		"Usage",
+		"User"
+	]
+}
