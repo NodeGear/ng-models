@@ -1,6 +1,6 @@
 {
   "name": "ng-models",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shared mongoose models across nodegear application infrastructure",
   "main": "bin/ng-models.js",
   "bin": {
