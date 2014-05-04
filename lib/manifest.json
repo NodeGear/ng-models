@@ -7,6 +7,7 @@
 		"AppEvent",
 		"AppLog",
 		"AppProcess",
+		"AppProcessUptime",
 		"EmailVerification",
 		"ForgotNotification",
 		"NetworkPerformanceRaw",
