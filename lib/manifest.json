@@ -13,6 +13,7 @@
 		"NetworkPerformanceRaw",
 		"PaymentMethod",
 		"PublicKey",
+		"RSAKey",
 		"Server",
 		"TFA",
 		"Ticket",

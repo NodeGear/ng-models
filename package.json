@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.matej.me:23/nodegear/ng-models.git"
+    "url": "ssh://git@git.matej.me/nodegear/ng-models.git"
   },
   "author": "Matej Kramny <matej@nodegear.com>",
   "license": "NodeGear All Rights Reserved",
