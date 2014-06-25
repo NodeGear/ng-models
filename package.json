@@ -16,6 +16,7 @@
     "async": "latest",
     "ansi-to-html": "latest",
     "bugsnag": "latest",
-    "jade": "latest"
+    "jade": "latest",
+    "bcrypt": "latest"
   }
 }
