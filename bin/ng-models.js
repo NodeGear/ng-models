@@ -14,7 +14,6 @@ module.exports.init = function() {
 
 function loadManifest () {
 	manifest.forEach(function(model) {
-		console.log(model);
 		module.exports[model] = require('../lib/models/'+model);
 	});
 }
