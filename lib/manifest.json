@@ -10,6 +10,7 @@
 		"Database",
 		"EmailVerification",
 		"ForgotNotification",
+		"Invitation",
 		"NetworkPerformanceRaw",
 		"PaymentMethod",
 		"RSAKey",
