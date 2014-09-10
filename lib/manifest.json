@@ -6,6 +6,7 @@
 		"AppEnvironment",
 		"AppEvent",
 		"AppProcess",
+		"AppProcessDataSnapshot",
 		"AppProcessUptime",
 		"Database",
 		"EmailVerification",
