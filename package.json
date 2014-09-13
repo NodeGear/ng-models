@@ -1,6 +1,6 @@
 {
   "name": "ng-models",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Shared mongoose models across nodegear application infrastructure",
   "main": "bin/ng-models.js",
   "bin": {
@@ -15,7 +15,6 @@
   "dependencies": {
     "async": "latest",
     "ansi-to-html": "latest",
-    "bugsnag": "latest",
     "jade": "latest",
     "bcrypt": "latest"
   }
