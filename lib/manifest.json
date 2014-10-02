@@ -12,7 +12,6 @@
 		"EmailVerification",
 		"ForgotNotification",
 		"Invitation",
-		"NetworkPerformanceRaw",
 		"PaymentMethod",
 		"RSAKey",
 		"SecurityLog",
